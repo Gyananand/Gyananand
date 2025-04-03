@@ -35,8 +35,7 @@ Welcome to my GitHub profile! I'm passionate about harnessing data analytics to 
 
 ## Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/)  
-- [Portfolio](https://yourportfolio.com)  
-- Email: [your.email@example.com](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gyan-anand/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:gyananand31@gmail.com)
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
