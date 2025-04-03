@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about harnessing data analytics to 
 
 - 💼 **Aspiring Data Analyst**
 - 🌱 Actively expanding my skills through projects and certifications
-- 🎓 [Bachelor's in Electrical & Elctronics Engineering] – committed to continuous learning and professional growth
+- 🎓 Bachelor's in Electrical & Elctronics Engineering
 
 ---
 
@@ -27,9 +27,26 @@ Welcome to my GitHub profile! I'm passionate about harnessing data analytics to 
 
 ## Projects
 
-- **Sales Analysis Dashboard:** Developed an interactive Power BI dashboard to analyze sales trends and customer behavior, resulting in actionable insights for business strategy.
-- **Customer Churn Prediction:** Utilized SQL and Python to build a predictive model for customer churn, helping to identify key factors contributing to customer retention.
-- **Marketing Campaign Analysis:** Analyzed the effectiveness of various marketing campaigns using Excel and Python, providing recommendations to optimize future campaigns.
+### Strategic Merger in OTT Domain (Mar 2025)
+- **Tools:** SQL, DAX, Power BI, Excel, Data Modeling, ETL  
+- **Overview:** Analyzed user behavior, content performance, and revenue trends post-merger for LioCinema (mass-market) and Jotstar (premium) platforms.
+- **Highlights:**  
+  - Built DAX measures for prorated revenue calculations.  
+  - Reduced churn risk by 30% through AI-driven inactivity alerts and personalized recommendations.
+
+### Data Professional Survey Analysis (Jan 2025)
+- **Tools:** Power BI, Data Visualization, ETL  
+- **Overview:** Analyzed 502 global responses to uncover salary trends, gender disparities, and Python dominance.
+- **Highlights:**  
+  - Developed an interactive dashboard comparing work-life balance and salary satisfaction.  
+  - Engineered a dynamic data model connecting multiple CSV files using DAX measures.
+
+### Company Layoffs Data Analysis (Dec 2024)
+- **Tools:** MySQL, Data Cleaning, EDA, ETL  
+- **Overview:** Cleaned and transformed a layoffs dataset by handling duplicates and standardizing data formats.
+- **Highlights:**  
+- Conducted EDA using SQL window functions to identify tech industry layoff trends.
+- Improved analysis accuracy by 40% via staging tables and data quality checks.
 
 ---
 
