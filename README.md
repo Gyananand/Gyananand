@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about harnessing data analytics to 
 
 - 💼 **Aspiring Data Analyst**
 - 🌱 Actively expanding my skills through projects and certifications
-- 🎓 [Your Degree or Field of Study] – committed to continuous learning and professional growth
+- 🎓 [Bachelor's in Electrical & Elctronics Engineering] – committed to continuous learning and professional growth
 
 ---
 
