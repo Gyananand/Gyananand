@@ -2,6 +2,7 @@
 # Hi there, I'm Gyan Anand! 👋
 
 Welcome to my GitHub profile! I'm passionate about harnessing data analytics to drive business insights and enable smarter decision-making. With solid expertise in SQL, Power BI, Excel, and Python, I build data-driven solutions that bridge the gap between technical precision and strategic business needs.
+![Profile Views](https://komarev.com/ghpvc/?username=gyananand&style=flat&color=blue)
 
 ---
 
