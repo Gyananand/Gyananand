@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm passionate about harnessing data analytics to 
 - 🌱 Actively expanding my skills through projects and certifications
 - 🎓 Bachelor's in Electrical & Elctronics Engineering
 
----
 
 ## Tools and Technologies
 
@@ -22,7 +21,6 @@ Welcome to my GitHub profile! I'm passionate about harnessing data analytics to 
 - **Python** – Data manipulation with Pandas, NumPy, and visualization libraries
 - **Additional Skills:** Data cleaning, reporting, and business intelligence
 
----
 
 ## Projects
 
@@ -30,7 +28,6 @@ Welcome to my GitHub profile! I'm passionate about harnessing data analytics to 
 - **Data Professional Survey Analysis:** Analyzed 502 global responses to uncover salary trends, gender disparities, and Python dominance.
 - **Company Layoffs Data Analysis:** Cleaned and transformed a layoffs dataset by handling duplicates and standardizing data formats.
   
----
 
 ## Let's Connect!
 
