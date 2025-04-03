@@ -28,18 +28,10 @@ Welcome to my GitHub profile! I'm passionate about harnessing data analytics to 
 ## Projects
 
 ### Strategic Merger in OTT Domain (Mar 2025)
-- **Tools:** SQL, DAX, Power BI, Excel, Data Modeling, ETL  
 - **Overview:** Analyzed user behavior, content performance, and revenue trends post-merger for LioCinema (mass-market) and Jotstar (premium) platforms.
-- **Highlights:**  
-  - Built DAX measures for prorated revenue calculations.  
-  - Reduced churn risk by 30% through AI-driven inactivity alerts and personalized recommendations.
-
+- 
 ### Data Professional Survey Analysis (Jan 2025)
-- **Tools:** Power BI, Data Visualization, ETL  
 - **Overview:** Analyzed 502 global responses to uncover salary trends, gender disparities, and Python dominance.
-- **Highlights:**  
-  - Developed an interactive dashboard comparing work-life balance and salary satisfaction.  
-  - Engineered a dynamic data model connecting multiple CSV files using DAX measures.
 
 ### Company Layoffs Data Analysis (Dec 2024)
 - **Tools:** MySQL, Data Cleaning, EDA, ETL  
