@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm passionate about harnessing data analytics to 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gyananand&style=flat&color=blue)
 
----
 
 ## About Me
 
