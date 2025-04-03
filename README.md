@@ -27,19 +27,10 @@ Welcome to my GitHub profile! I'm passionate about harnessing data analytics to 
 
 ## Projects
 
-### Strategic Merger in OTT Domain (Mar 2025)
-- **Overview:** Analyzed user behavior, content performance, and revenue trends post-merger for LioCinema (mass-market) and Jotstar (premium) platforms.
-- 
-### Data Professional Survey Analysis (Jan 2025)
-- **Overview:** Analyzed 502 global responses to uncover salary trends, gender disparities, and Python dominance.
-
-### Company Layoffs Data Analysis (Dec 2024)
-- **Tools:** MySQL, Data Cleaning, EDA, ETL  
-- **Overview:** Cleaned and transformed a layoffs dataset by handling duplicates and standardizing data formats.
-- **Highlights:**  
-- Conducted EDA using SQL window functions to identify tech industry layoff trends.
-- Improved analysis accuracy by 40% via staging tables and data quality checks.
-
+- **Strategic Merger in OTT Domain:** Analyzed user behavior, content performance, and revenue trends post-merger for LioCinema (mass-market) and Jotstar (premium) platforms.
+- **Data Professional Survey Analysis:** Analyzed 502 global responses to uncover salary trends, gender disparities, and Python dominance.
+- **Company Layoffs Data Analysis:** Cleaned and transformed a layoffs dataset by handling duplicates and standardizing data formats.
+  
 ---
 
 ## Let's Connect!
